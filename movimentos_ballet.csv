@@ -1,0 +1,48 @@
+id,nome,tempo,custo,categoria,prereqs
+0,arabesque,4,2,elevacao_de_pernas,8
+1,assemblé,1,2,salto,"19,27"
+2,grand assemblé en tournant,1,3,salto,"19,27"
+3,attitude,4,2,elevacao_de_pernas,
+4,pas ballonné,2,3,salto,19
+5,ballotté,2,3,salto,19
+6,pas de valse,8,1,deslocamento,
+7,pas marché,8,1,deslocamento,
+8,battement tendu,2,1,transição,
+9,grand battement,2,2,elevacao_de_pernas,8
+10,brisé,1,3,salto,19
+11,brisé volé,1,3,salto,19
+12,coupé jeté en tournant,2,4,salto,19
+13,pas de bourrée couru,8,1,deslocamento,
+14,cabriole,1,3,salto,19
+15,double cabriole,2,4,salto,19
+16,chaînés,8,4,giro,"18,19"
+17,changement,1,2,salto,19
+18,chassé,2,2,salto,19
+19,demi-plié,1,1,transição,
+20,développé,4,4,elevacao_de_pernas,8
+21,detiré,4,5,elevacao_de_pernas,8
+22,échappé,2,2,salto,19
+23,entrechat,1,3,salto,19
+24,entrechat six,2,5,salto,19
+25,fondue,2,1,transição,
+26,fouetté,8,4,giro,"19,36"
+27,glissade,1,1,salto,19
+28,jeté,1,2,salto,"18,19,27"
+29,grand jeté,2,3,salto,"18,19,27"
+30,jeté entrelacé,2,3,salto,"18,19"
+31,Manèges,8,4,salto,"18,19,27"
+32,Mazurka,8,1,deslocamento,
+33,pas de chat,1,1,salto,19
+34,penché,4,5,elevacao_de_pernas,"8,20,21"
+35,piqué,8,2,giro,8
+36,pirouette,4,3,giro,"19,39"
+37,grand pirouette à la second,4,4,giro,"19,36"
+38,pirouette piquée,8,2,giro,19
+39,retiré,2,1,transição,19
+40,royale,1,2,salto,19
+41,rond de jambe à terre,4,2,elevacao_de_pernas,8
+42,rond de jambe en l'air,4,3,elevacao_de_pernas,8
+43,saut de basque,2,2,salto,19
+44,sauté,1,1,salto,19
+45,sissonne,1,3,salto,19
+46,grand sissonne ouverte,1,4,salto,19
