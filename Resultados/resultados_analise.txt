@@ -1,0 +1,42 @@
+ANÁLISE DE SEQUÊNCIAS DE BALLET
+==================================================
+
+MAIOR SEQUÊNCIA:
+Comprimento: 18 movimentos
+Número de sequências com comprimento máximo: 32
+
+Exemplos das maiores sequências:
+1. AltaFluidez_BaixoCusto_MediaDiversidade_Alta3_128_40_1_32
+   Sequência: [3, 6, 7, 8, 20, 34, 13, 19, 16, 19, 36, 26, 19, 31, 19, 46, 19, 27]
+   Perfil: AltaFluidez_BaixoCusto_MediaDiversidade
+   Categoria: Alta3
+
+2. AltaFluidez_BaixoCusto_MediaDiversidade_Alta3_128_40_2_32
+   Sequência: [3, 6, 7, 8, 20, 34, 13, 19, 16, 19, 36, 26, 19, 31, 19, 46, 19, 27]
+   Perfil: AltaFluidez_BaixoCusto_MediaDiversidade
+   Categoria: Alta3
+
+3. AltaFluidez_BaixoCusto_MediaDiversidade_Alta3_128_40_3_32
+   Sequência: [3, 6, 7, 8, 20, 34, 13, 19, 16, 19, 36, 26, 19, 31, 19, 46, 19, 27]
+   Perfil: AltaFluidez_BaixoCusto_MediaDiversidade
+   Categoria: Alta3
+
+MOVIMENTOS UTILIZADOS:
+Total: 22
+IDs: [0, 1, 2, 3, 6, 7, 8, 9, 12, 13, 16, 19, 20, 26, 27, 31, 34, 35, 36, 37, 38, 46]
+
+MOVIMENTOS NÃO UTILIZADOS:
+Total: 35
+IDs: [4, 5, 10, 11, 14, 15, 17, 18, 21, 22, 23, 24, 25, 28, 29, 30, 32, 33, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]
+
+TOP 10 MOVIMENTOS MAIS FREQUENTES:
+Movimento 19: 28576 ocorrências
+Movimento 36: 12512 ocorrências
+Movimento 6: 12320 ocorrências
+Movimento 27: 12176 ocorrências
+Movimento 3: 10688 ocorrências
+Movimento 8: 2624 ocorrências
+Movimento 9: 2016 ocorrências
+Movimento 1: 1728 ocorrências
+Movimento 7: 416 ocorrências
+Movimento 0: 384 ocorrências
